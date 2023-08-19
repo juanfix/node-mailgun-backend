@@ -21,7 +21,7 @@ Crea y envía un email al destinatario configurado.
 
 | Nombre    | Requerido | Tipo   | Descripción                      |
 | --------- | --------- | ------ | -------------------------------- |
-| `email`   | Si        | string | Email del formulario             |
+| `email`   | Si        | string | Email de la persona              |
 | `name`    | Si        | string | Nombre de la persona             |
 | `phone`   | Si        | string | Número de teléfono de la persona |
 | `message` | Si        | string | Mensaje del email                |
