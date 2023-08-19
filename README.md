@@ -15,7 +15,7 @@ Esta aplicación envía un correo electrónico a un destinatario configurado en 
 
 `host`/api/mail<br/>
 
-Crea y envia un email al destinatario configurado.
+Crea y envía un email al destinatario configurado.
 
 **Parámetros: JSON**
 
